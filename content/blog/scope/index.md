@@ -1,15 +1,14 @@
 ---
 title: Scope
-summary: Scope of traffic science
+summary: Scope of open traffic science
 date: 2024-09-28
 authors:
   - Junyi Ji
   - Xingmin Wang
 tags:
-  - Hugo Blox
-  - Markdown
+  - OTS
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: 'Logo designed by Junyi Ji'
 ---
 
 

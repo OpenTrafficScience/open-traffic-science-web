@@ -2,12 +2,9 @@
 # Display name
 title: Open Traffic Science
 
-# # Name pronunciation (optional)
-# name_pronunciation: Chien Shiung Wu
-
-# Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+# # Full name (for SEO)
+# first_name: Shiung Wu
+# last_name: Chien
 
 # Status emoji
 status:
@@ -31,7 +28,7 @@ bio: Open Traffic Science.
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:junyi.ji@vanderbilt.edu'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
@@ -54,10 +51,12 @@ highlight_name: true
 website: ""
 ---
 
-Traffic science in the era of connected and automated vehicles.
+Traffic science can be traced back to 1956. Leslie C. Edie, Robert Herman, Robert E. Chandler, Denos Gazis, Elliott W. Montroll, Refrey B. Potts, and Richard W. Rothery opened up this direction that time. They did huge amount of field tesing work, opening up the ISTTT symposium series, and write few fantastic textbooks. In the era of connected and automated vehicles and artifical intelligence, 
 
-We plan to include both traditional traffic flow theory and new emerging methods.
+We plan to revisit traffic science with emerging technologies and open data.
 
-We might need to create a "knowledge tree", offering different learning paths, such that people can customize their learning process. 
+We need to identify the **fundamental questions** in our research communtity. No matter how the technologies evlove, the **fundamental questions** remain consistent. The philosophy behind this initiative is to mentor the younger generation using first principle.
 
-As a textbook, although we might be able to include more engineering details, I think we should pay more attention to really the scientific part. Or, we should saparete those tedious (although important) data processing with true science and knowledge. This is why I recognize myself as an engineering scientistc. 
+> The first principle is a foundational concept or assumption that cannot be deduced from any other proposition and serves as the basic building block for understanding and reasoning.
+
+For people with diverse backgrounds and purposes, we aim to create a "knowledge tree" that provides various learning paths, enabling personalized learning experiences.
