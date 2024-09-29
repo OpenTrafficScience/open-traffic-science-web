@@ -2,6 +2,11 @@
 title: Scope
 summary: Scope of open traffic science
 date: 2024-09-28
+design:
+  spacing:
+    padding: [0, 0, 0, 0]
+  biography:
+    style: 'text-align: justify; font-size: 0.8em;'
 authors:
   - Junyi Ji
   - Xingmin Wang
