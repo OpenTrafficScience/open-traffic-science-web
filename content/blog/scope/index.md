@@ -5,8 +5,6 @@ date: 2024-09-28
 design:
   spacing:
     padding: [0, 0, 0, 0]
-  biography:
-    style: 'text-align: justify; font-size: 0.8em;'
 authors:
   - Junyi Ji
   - Xingmin Wang
@@ -15,6 +13,24 @@ tags:
 image:
   caption: 'Logo designed by Junyi Ji'
 ---
+
+<style>
+body {
+  font-size: 18px;
+}
+
+h1 {
+  font-size: 26px;
+}
+
+h2 {
+  font-size: 22px;
+}
+
+p {
+  font-size: 16px;
+}
+</style>
 
 # Open Traffic Science 
 
