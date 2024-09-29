@@ -20,15 +20,31 @@ body {
 }
 
 h1 {
-  font-size: 26px;
+  font-size: 22px;
 }
 
 h2 {
-  font-size: 22px;
+  font-size: 18px;
 }
 
 p {
   font-size: 16px;
+}
+/* Style for ordered lists */
+ol {
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+/* Style for unordered lists */
+ul {
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+/* Style for list items */
+li {
+  margin-bottom: 10px;
 }
 </style>
 
