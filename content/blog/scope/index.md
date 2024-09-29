@@ -1,6 +1,6 @@
 ---
 title: Why we initiate open traffic science?
-summary: Scope of open traffic science
+summary: The motivation behind launching open traffic science and the way we make this community sustainable.
 date: 2024-09-28
 design:
   spacing:
@@ -10,8 +10,10 @@ authors:
   - Xingmin Wang
 tags:
   - OTS
+  - Junyi
+  - Xingmin
 image:
-  caption: 'Logo designed by Junyi Ji'
+  caption: 'Logo of Open Traffic Science, designed by Junyi Ji'
 ---
 
 <style>
@@ -53,9 +55,10 @@ li {
 # Open Traffic Science 
 
 ## Background
-
+Since the rise of big data and deep learning (starting around 2015), along with advancements in reinforcement learning (notably since AlphaGo) and large models (from 2022 onwards), transportation and traffic research has undergone significant transformations in various aspects. 
 
 ## Scope
+
 The problems of transportation and traffic are very old ones.
 
 Traffic science can be traced back to 1956. Leslie C. Edie, Robert Herman, Robert E. Chandler, Denos Gazis, Elliott W. Montroll, Refrey B. Potts, and Richard W. Rothery opened up this direction that time. They did huge amount of field-testing work, opening up the ISTTT symposium series, and write few fantastic textbooks. In the era of connected and automated vehicles and artificial intelligence, 
@@ -100,7 +103,7 @@ Online blogging (lecture)
 Online coding examples (Colab)
 
 Course project (large-scale examples)
+<!-- Advisory member can be updated later -->
+<!-- ## Advisory members
 
-## Advisory members
-
-Prof. Henry Liu, Prof. Saif Jabari, Prof. Michael Zhang, Prof. Toru Seo, Prof. Dan Work, Prof. Jonathan Sprinkle (details TBD)
+Prof. Henry Liu, Prof. Saif Jabari, Prof. Michael Zhang, Prof. Toru Seo, Prof. Dan Work, Prof. Jonathan Sprinkle (details TBD) -->
