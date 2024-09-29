@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳健雄
+title: Open Traffic Science
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
@@ -54,6 +54,10 @@ highlight_name: true
 website: ""
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Traffic science in the era of connected and automated vehicles.
+
+We plan to include both traditional traffic flow theory and new emerging methods.
+
+We might need to create a "knowledge tree", offering different learning paths, such that people can customize their learning process. 
+
+As a textbook, although we might be able to include more engineering details, I think we should pay more attention to really the scientific part. Or, we should saparete those tedious (although important) data processing with true science and knowledge. This is why I recognize myself as an engineering scientistc. 
