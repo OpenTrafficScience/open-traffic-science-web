@@ -1,6 +1,6 @@
 # Open Traffic Science Webpage
 
-## Acknoledgement
+## Acknowledgement
 
 
 # [Creator's Blog: Hugo Theme](https://github.com/HugoBlox/theme-blog)
