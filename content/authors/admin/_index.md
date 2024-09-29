@@ -6,9 +6,9 @@ title: Open Traffic Science
 # first_name: Shiung Wu
 # last_name: Chien
 
-# Status emoji
-status:
-  icon: ☕️
+# # Status emoji
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -26,10 +26,10 @@ bio: Open Traffic Science.
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-profiles:
-  - icon: at-symbol
-    url: 'mailto:junyi.ji@vanderbilt.edu'
-    label: E-mail Me
+# profiles:
+#   - icon: at-symbol
+#     url: 'mailto:junyi.ji@vanderbilt.edu'
+#     label: E-mail Me
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
   # - icon: brands/instagram
@@ -48,15 +48,13 @@ profiles:
 highlight_name: true
 
 # Author's website URL
-website: ""
+website: "opentraffic.science"
 ---
 
-Traffic science can be traced back to 1956. Leslie C. Edie, Robert Herman, Robert E. Chandler, Denos Gazis, Elliott W. Montroll, Refrey B. Potts, and Richard W. Rothery opened up this direction that time. They did huge amount of field tesing work, opening up the ISTTT symposium series, and write few fantastic textbooks. In the era of connected and automated vehicles and artifical intelligence, 
+Traffic science can be traced back to 1956. Leslie C. Edie, Robert Herman, Robert E. Chandler, Denos Gazis, Elliott W. Montroll, Refrey B. Potts, and Richard W. Rothery opened up this direction that time. They did huge amount of field experiments, opening up the ISTTT symposium series, and write few fantastic textbooks. In the era of connected and automated vehicles and artificial intelligence, we plan to revisit traffic science with emerging technologies and open data.
 
-We plan to revisit traffic science with emerging technologies and open data.
-
-We need to identify the **fundamental questions** in our research communtity. No matter how the technologies evlove, the **fundamental questions** remain consistent. The philosophy behind this initiative is to mentor the younger generation using first principle.
+We need to identify the **fundamental questions** in our research community. No matter how the technologies evolve, the fundamental questions remain consistent. The philosophy behind this initiative is to mentor the younger generation using first principle.
 
 > The first principle is a foundational concept or assumption that cannot be deduced from any other proposition and serves as the basic building block for understanding and reasoning.
 
-For people with diverse backgrounds and purposes, we aim to create a "knowledge tree" that provides various learning paths, enabling personalized learning experiences.
+Open data, open code, open knowledge, and open mind.

@@ -1,5 +1,5 @@
 ---
-title: Scope
+title: Why we initiate open traffic science?
 summary: Scope of open traffic science
 date: 2024-09-28
 design:
