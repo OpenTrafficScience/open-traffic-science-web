@@ -11,7 +11,7 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
       biography:
-        style: 'text-align: justify; font-size: 0.5em;'
+        style: 'text-align: justify; font-size: 0.8em;'
   - block: collection
     content:
       filters:
@@ -19,5 +19,5 @@ sections:
           - blog
     design:
       spacing:
-        padding: ['2rem', 0, '2rem', 0]
+        padding: ['3rem', 0, '6rem', 0]
 ---
