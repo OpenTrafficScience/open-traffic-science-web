@@ -1,7 +1,7 @@
 ---
 title: Scope
 summary: Scope of traffic science
-date: 2024-10-01
+date: 2024-09-28
 authors:
   - Junyi Ji
   - Xingmin Wang
