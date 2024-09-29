@@ -20,19 +20,21 @@ body {
 }
 
 h1 {
-  font-size: 22px;
+  font-size: 20px;
 }
 
 h2 {
   font-size: 18px;
 }
-
+h3 {
+  font-size: 16px;
+}
 p {
   font-size: 16px;
 }
 /* Style for ordered lists */
 ol {
-  font-size: 18px;
+  font-size: 16px;
   line-height: 1.6;
 }
 
