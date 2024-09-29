@@ -11,23 +11,25 @@ image:
   caption: 'Logo designed by Junyi Ji'
 ---
 
-
 # Open Traffic Science 
+
+## Background
 
 
 ## Scope
+The problems of transportation and traffic are very old ones.
 
-Traffic science can be traced back to 1956. Leslie C. Edie, Robert Herman, Robert E. Chandler, Denos Gazis, Elliott W. Montroll, Refrey B. Potts, and Richard W. Rothery opened up this direction that time. They did huge amount of field tesing work, opening up the ISTTT symposium series, and write few fantastic textbooks. In the era of connected and automated vehicles and artifical intelligence, 
+Traffic science can be traced back to 1956. Leslie C. Edie, Robert Herman, Robert E. Chandler, Denos Gazis, Elliott W. Montroll, Refrey B. Potts, and Richard W. Rothery opened up this direction that time. They did huge amount of field-testing work, opening up the ISTTT symposium series, and write few fantastic textbooks. In the era of connected and automated vehicles and artificial intelligence, 
 
 We plan to revisit traffic science with emerging technologies and open data.
 
-We need to identify the **fundamental questions** in our research communtity. No matter how the technologies evlove, the **fundamental questions** remain consistent. The philosophy behind this initiative is to mentor the younger generation using first principle.
+We need to identify the **fundamental questions** in our research community. No matter how the technologies evolve, the **fundamental questions** remain consistent. The philosophy behind this initiative is to mentor the younger generation using first principle.
 
 > The first principle is a foundational concept or assumption that cannot be deduced from any other proposition and serves as the basic building block for understanding and reasoning.
 
 For people with diverse backgrounds and purposes, we aim to create a "knowledge tree" that provides various learning paths, enabling personalized learning experiences.
 
-As a textbook, we would pay more attention to the scientific part although we might be able to include more engineering details. Or, we should saparete those tedious (although important) data processing with true science and knowledge. This is why we recognize ourselves as traffic scientists. 
+As a textbook-style initiative, we would pay more attention to the scientific part, although we might be able to include more engineering details. Or, we should separate those tedious (although important) data processing with true science and knowledge. This is why we recognize ourselves as traffic scientists. 
 
 ## Plan
 
@@ -60,8 +62,6 @@ Online coding examples (Colab)
 
 Course project (large-scale examples)
 
-## Advising members (TBD)
+## Advisory members
 
-Prof. Henry Liu, Prof. Saif Jabari, Prof. Michael Zhang, Prof. Toru Seo
-
-Prof. Dan Work, Prof. Jonathan Sprinkle
+Prof. Henry Liu, Prof. Saif Jabari, Prof. Michael Zhang, Prof. Toru Seo, Prof. Dan Work, Prof. Jonathan Sprinkle (details TBD)
