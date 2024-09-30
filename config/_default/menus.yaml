@@ -10,7 +10,13 @@ main:
     weight: 20
   - name: People
     url: people/
-    weight: 20
+    weight: 30
+  - name: Reading
+    url: reading/
+    weight: 40
+  - name: Data
+    url: data/
+    weight: 50
   # - name: Uses
   #   url: uses/
   #   weight: 30
