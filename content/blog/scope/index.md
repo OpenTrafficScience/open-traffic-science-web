@@ -1,7 +1,7 @@
 ---
 title: Why we initiate open traffic science?
 summary: The motivation behind launching open traffic science and the way we make this community sustainable.
-date: 2024-09-28
+date: 2024-09-29
 design:
   spacing:
     padding: [0, 0, 0, 0]
@@ -52,7 +52,7 @@ li {
 }
 </style>
 
-# Open Traffic Science 
+<!-- # Open Traffic Science  -->
 
 ## Background
 Since the rise of big data and deep learning (starting around 2015), along with advancements in reinforcement learning (notably since AlphaGo) and large models (from 2022 onwards), transportation and traffic research has undergone significant transformations in various aspects. 
