@@ -58,3 +58,7 @@ features:
     url: 'https://github.com/HugoBlox/hugo-blox-builder/'
     content_dir: starters/blog/content
     branch: main
+
+params:
+  fonts:
+    - href: "https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600&display=swap"

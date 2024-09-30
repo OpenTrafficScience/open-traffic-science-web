@@ -1,5 +1,5 @@
 ---
-title: 'Home'
+title: 'Open Traffic Science'
 date: 2024-09-24
 type: landing
 sections:
