@@ -4,7 +4,7 @@ date: 2024-09-24
 hide_date: true
 reading_time: false
 ---
-
+<!-- 
 <style>
 body {
   font-size: 18px;
@@ -39,7 +39,7 @@ ul {
 li {
   margin-bottom: 10px;
 }
-</style>
+</style> -->
 
 **Junyi Ji** is a PhD student at Vanderbilt University in CEE and VU-ISIS. He is mainly devoted to the I-24 MOTION testbed. His research focuses on understanding *the nature of traffic waves* and developing a mathematical digital twin for the freeway testbed. His research vision is to integrate computational methods and cyber-physical systems (CPS) for sustainable transportation solutions aligned with the UN Sustainable Development Goals (SDGs). He is a strong advocate for open science. He is the convener of the workshop on vehicle trajectory data camp and actively volunteers with organizations such as Citipedia, RERITE, and MoveVU.
 

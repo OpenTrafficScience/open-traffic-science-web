@@ -1,5 +1,5 @@
 ---
-title: "Blog"
+title: "Blogs"
 type: "list"
 layout: "blog"
 design:
