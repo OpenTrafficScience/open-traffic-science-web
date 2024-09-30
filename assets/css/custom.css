@@ -1,0 +1,32 @@
+/* Apply Source Sans Pro as the global font family */
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 18px; /* Change this to whatever size you prefer */
+}
+
+/* Font size for headings */
+h1 {
+  font-size: 26px;
+  font-family: 'Source Sans Pro', sans-serif; /* Optional, but ensures headings use this font */
+}
+
+h2 {
+  font-size: 22px;
+  font-family: 'Source Sans Pro', sans-serif; /* Optional, but ensures headings use this font */
+}
+
+h3 {
+  font-size: 20px;
+  font-family: 'Source Sans Pro', sans-serif; /* Optional, but ensures headings use this font */
+}
+
+/* Font size for paragraphs */
+p {
+  font-size: 16px;
+  font-family: 'Source Sans Pro', sans-serif; /* Optional, ensures paragraphs use this font */
+}
+
+/* You can further define font weight if needed */
+strong {
+  font-weight: 600; /* Use bold for strong elements */
+}
